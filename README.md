@@ -19,7 +19,7 @@ It will help you to perform following task:
 
 6- Can tell Joke
 
----> More function can be added
+---> More function to be added...
 
 
 ## STEPS TO INSTALL REQUIRED MODULES
